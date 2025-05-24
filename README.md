@@ -1,2 +1,3 @@
-**Python Cleaner Tool Developed by UofT Students for PoE**
+**Python Cleaner Tool**
 
+Full Readme in progress
